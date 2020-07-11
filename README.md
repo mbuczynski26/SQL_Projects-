@@ -1,2 +1,2 @@
 # SQL_Projects-
-Files related to general SQL proects. 
+Files related to general SQL projects. 
